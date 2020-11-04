@@ -106,6 +106,7 @@ alias showpath="tr ':' '\n' <<< \"$PATH\""
 alias matlab="/home/karl/Programs/MATLAB/2020a/bin/matlab"
 alias spotify="flatpak run com.spotify.Client"
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias py='python'
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/karl/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
